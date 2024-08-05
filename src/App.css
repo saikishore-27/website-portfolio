@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+  margin: 0px !important;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 4px;
+    height: 80px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:#222A35;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #575C66;
+    border-radius: 6px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #626970;
+  }
+
+ 
+  .book-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #1b0d30; /* Optional: set a background color */
+}
+
+.demoPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #ccc;
+    height: 100%;
+    width: 100%;
+    font-size: 24px; /* Adjust font size as needed */
+}
+
+.demoPage img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.controls {
+    margin-top: 20px;
+}
+
+.controls button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.controls button:hover {
+    background-color: #0056b3;
+}
+.text{
+  color: white;
+  font-size: 50px;
+  margin-bottom: 10px;
+
+}
+
+
+
+
+/* ImageSlider.css */
+
+.slider-container {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Optional: set a background color */
+  overflow: hidden; /* Prevent overflow from background images */
+}
+
+.foreground {
+  position: relative;
+  width: 842px; /* A3 width in pixels (landscape) */
+  height: 595px; /* A3 height in pixels (landscape) */
+  z-index: 1; /* Place slider above the background */
+}
+
+.foreground-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure the image covers the slide area */
+  transition: opacity 0.5s ease-in-out; /* Transition effect for image change */
+}
+
+.background {
+  position: absolute;
+  top: 50%;
+  width: 150px;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+  transform: translateY(-50%);
+  z-index: 0; /* Place background behind the slider */
+  opacity: 0.5; /* Adjust opacity for transparency */
+}
+
+.left-background {
+  left: 10%; /* Position it left of the foreground */
+}
+
+.right-background {
+  right: 10%; /* Position it right of the foreground */
+}
+
+.navigation {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  z-index: 2; /* Ensure navigation buttons are above all other elements */
+}
+
+.navigation button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+.navigation button:hover {
+  background-color: #0056b3;
+}
