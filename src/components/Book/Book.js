@@ -39,25 +39,25 @@ function MyBook(props) {
                 ref={bookRef}
             >
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+1" alt="Page 1" />
+                    <img src="https://images.pexels.com/photos/4328429/pexels-photo-4328429.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Page 1" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+2" alt="Page 2" />
+                    <img src="https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-modern-living-room.jpg" alt="Page 2" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+3" alt="Page 3" />
+                    <img src="https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-spacious-room.jpg" alt="Page 3" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+4" alt="Page 4" />
+                    <img src="https://archicgi.com/wp-content/uploads/2019/12/3d-rendering-3d-interior-visualization-5-key-elements-of-scene-view03office-lobby-design-view.jpg" alt="Page 4" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+1" alt="Page 1" />
+                    <img src="https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-luxurious-design.jpg" alt="Page 1" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+1" alt="Page 1" />
+                    <img src="https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-modern-kitchen.jpg" alt="Page 1" />
                 </div>
                 <div className="demoPage">
-                    <img src="https://via.placeholder.com/800x400?text=Page+1" alt="Page 1" />
+                    <img src="https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-stylish-space.jpg" alt="Page 1" />
                 </div>
                 <div className="demoPage">
                     <img src="https://via.placeholder.com/800x400?text=Page+1" alt="Page 1" />

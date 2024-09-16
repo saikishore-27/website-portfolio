@@ -1,3 +1,4 @@
+// src/components/Skills.js
 import React from 'react'
 import styled from 'styled-components'
 import { skills } from '../../data/constants'
@@ -114,8 +115,8 @@ const SkillItem = styled.div`
 `
 
 const SkillImage = styled.img`
-  width: 24px;
-  height: 24px;
+  width: 48px;
+  height: 48px;
 `
 
 
@@ -124,7 +125,7 @@ const Skills = () => {
     <Container id="skills">
       <Wrapper>
         <Title>Skills</Title>
-        <Desc>Here are some of my skills on which I have been working on for the past 8 years.
+        <Desc>Here are some of my skills.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
@@ -146,5 +147,4 @@ const Skills = () => {
     </Container>
   )
 }
-
-export default Skills
+export default Skills;

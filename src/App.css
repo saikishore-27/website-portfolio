@@ -47,7 +47,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #1b0d30; /* Optional: set a background color */
+    background:linear-gradient(#301a3e,#1e1f3d); /* Optional: set a background color */
 }
 
 .demoPage {
@@ -103,7 +103,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #f0f0f0; /* Optional: set a background color */
+  background-color:linear-gradient(#c81fee,#810cdb); /* Optional: set a background color */
   overflow: hidden; /* Prevent overflow from background images */
 }
 
@@ -151,7 +151,7 @@ body{
 }
 
 .navigation button {
-  background-color: #007bff;
+  background-color: #3287e3;
   color: white;
   border: none;
   padding: 10px 20px;
@@ -162,5 +162,12 @@ body{
 }
 
 .navigation button:hover {
-  background-color: #0056b3;
+  background-color:linear-gradient(#c81fee,#810cdb);
 }
+
+.one{
+  color: white;
+}
+
+
+

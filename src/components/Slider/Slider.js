@@ -2,13 +2,19 @@ import React, { useState } from 'react';
 //import './ImageSlider.css'; // Assuming you have a separate CSS file for styling
 
 const images = [
-    'https://via.placeholder.com/842x595?text=Image+1',
-    'https://via.placeholder.com/842x595?text=Image+2',
-    'https://via.placeholder.com/842x595?text=Image+3',
-    'https://via.placeholder.com/842x595?text=Image+4'
+    'https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-modern-living-room.jpg',
+    'https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-spacious-room.jpg',
+    'https://archicgi.com/wp-content/uploads/2019/12/3d-rendering-3d-interior-visualization-5-key-elements-of-scene-view03office-lobby-design-view.jpg',
+    'https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-luxurious-design.jpg',
+     'https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-modern-kitchen.jpg',
+      'https://archicgi.com/wp-content/uploads/2022/09/3d-interior-visualization-stylish-space.jpg',
+
+     
 ];
 
 function ImageSlider() {
+
+
     const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
     const goToPreviousSlide = () => {
@@ -30,8 +36,10 @@ function ImageSlider() {
     const getRightImageIndex = () => {
         return currentImageIndex === images.length - 1 ? 0 : currentImageIndex + 1;
     };
+   
 
     return (
+        
         <div className="slider-container">
             <div
                 className="background left-background"
@@ -57,3 +65,6 @@ function ImageSlider() {
 }
 
 export default ImageSlider;
+
+
+///fdgdfgdfgdfgdf
