@@ -118,7 +118,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSfNI-3MiIUdEiS2f3fszJF7puy1Wd-336O9NlsdPW70CHHewNMoSPexBZtBQMq36hVg&usqp=CAU",
     role: "Design Architect Intern",
     company: "I+I Architects",
     date: "july 2024 - August 2024",
@@ -153,7 +153,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSfNI-3MiIUdEiS2f3fszJF7puy1Wd-336O9NlsdPW70CHHewNMoSPexBZtBQMq36hVg&usqp=CAU",
     role: "Architectural Design intern",
     company: "Flipr",
     date: "may 2019 - nov 2019",
