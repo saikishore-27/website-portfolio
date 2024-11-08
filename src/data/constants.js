@@ -30,7 +30,7 @@ export const skills = [
       {
         name: "FIGMA",
         image:
-          "https://scontent.fhyd11-1.fna.fbcdn.net/v/t39.30808-6/339446266_746607080404238_2348672906438710418_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3RYlL4ZgDLAQ7kNvgF-8d8p&_nc_ht=scontent.fhyd11-1.fna&_nc_gid=AUW1XIuFrQtKAKVkCZJT1tg&oh=00_AYB1C2mQHoiwLrzL8dtBLzuwgwvxCXat1zTvmqmQxaUtMQ&oe=66EB4473",
+          "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
           },
       {
         name: "PROTOTYPING",
