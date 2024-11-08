@@ -135,7 +135,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://media.gettyimages.com/id/131585968/nl/vector/person-working-at-drafting-table.jpg?s=1024x1024&w=gi&k=20&c=uzyoO4mwZXODYC3_yapJ5ke_zXNSRp4ml4NlHDhDVG4=",
     role: " studying (Part time-Freelacer) ",
     //company: "sdfsd",
     date: "June 2020 - june 2024",
