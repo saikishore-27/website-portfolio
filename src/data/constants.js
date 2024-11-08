@@ -264,7 +264,7 @@ export const projects = [
     member: [
       {
         name: "Kishore",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHKrPXpSXf-IQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722320016074?e=1732147200&v=beta&t=uMfB4nDFO1XrLybqJT2CgPpvqou55BIpz4rl0nwjEjo",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHCaLF2H-GyCA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730693146941?e=1736380800&v=beta&t=mmDJPTAbjWtUsserR5HFQ3V-92C0JSAR1Yw4hSn5k4U",
         linkedin: "https://www.linkedin.com/in/sai-kishore-258a58258/",
         //github: "https://github.com/rishavchanda/",
       },
