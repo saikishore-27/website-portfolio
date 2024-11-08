@@ -40,7 +40,7 @@ export const skills = [
       {
         name: "WIREFRAMING",
         image:
-          "https://vitofryfilter.com/vendor/semantic/examples/assets/images/wireframe/image.png",
+          "https://cdn-icons-png.flaticon.com/512/1077/1077183.png",
       },
       {
         name: "INTERACTION DESIGN",
@@ -108,7 +108,7 @@ export const skills = [
       {
         name: "VRAY",
         image:
-          "https://scontent.fhyd11-1.fna.fbcdn.net/v/t39.30808-6/309075760_640342934189883_4172735221687232664_n.png?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=tKq8iYHV_KgQ7kNvgF5N87Y&_nc_ht=scontent.fhyd11-1.fna&_nc_gid=ALcJby_0i_zgfopO1zRFbFd&oh=00_AYD3ukN2RMLf2tTBVBDoJraSkNE3C3KWt9B-h0nOj_OEVw&oe=66EB69F9",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbOL_DaNW6jLgosx_MwICj9A2ZbDT2O8xxQ&s",
       },
     ],
   },
