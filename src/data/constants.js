@@ -40,7 +40,7 @@ export const skills = [
       {
         name: "WIREFRAMING",
         image:
-          "https://img.uxcel.com/tags/wireframe-1721717356346-2x.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vZp2tfg5AWGrSSg_Gv7QNhfnZXf4qRmgMg&s",
       },
       {
         name: "INTERACTION DESIGN",
