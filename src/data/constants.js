@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. My enthusiasm for product design and UX designing drives me to create user-centered solutions that enhance both functionality and experience. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://www.behance.net/saikishore26",
   resume:
-    "https://drive.google.com/file/d/1NkOl76Oki6kcBWTw6uieEyoBoifJLb3p/view?usp=sharing",
+    "https://drive.google.com/file/d/1yyUiU5mphicFVrdpLNT4n3HsaardTFao/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sai-kishore-258a58258/",
   //twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/sai_kishore_2_/",
